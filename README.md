@@ -1,3 +1,5 @@
+Dankook University, 2nd Year 2nd Semester (Fall 2024)
+
 # Button Whacker (2024)
 
 **Mobile Programming Term Project – Android Studio (Java)**  
