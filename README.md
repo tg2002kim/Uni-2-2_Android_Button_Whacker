@@ -60,7 +60,7 @@ Button Whacker is a casual mobile game where players tap randomly activated butt
 - Game Over: Confirm score display and navigation to restart/main screen
 
 ---
-
+ 
 ## 📄 Documentation
 
 Project documentation is included in the `docs/` directory:
