@@ -1,6 +1,6 @@
 Dankook University, 2nd Year 2nd Semester (Fall 2024)
 
-# Button Whacker (2024)
+# Button Whacker
 
 **Mobile Programming Term Project – Android Studio (Java)**  
 Department of Mobile Systems Engineering, Dankook University  
@@ -10,7 +10,7 @@ Button Whacker is a casual mobile game where players tap randomly activated butt
 
 ---
 
-## 🕹️ Game Overview
+## Game Overview
 
 - **Gameplay**: Tap the yellow-highlighted button before the time runs out.
 - **Scoring**: Starts at 100. +10 points for a successful hit, -10 for a miss or timeout.
@@ -22,7 +22,7 @@ Button Whacker is a casual mobile game where players tap randomly activated butt
 
 ---
 
-## 🎮 Key Features
+## Key Features
 
 | Feature             | Description |
 |---------------------|-------------|
@@ -35,7 +35,7 @@ Button Whacker is a casual mobile game where players tap randomly activated butt
 
 ---
 
-## 🧩 App Structure
+## App Structure
 
 - `MainActivity`: Handles difficulty selection and game start
 - `GameActivity`: Manages button logic, scoring, and timing
@@ -53,7 +53,7 @@ Button Whacker is a casual mobile game where players tap randomly activated butt
 
 ---
 
-## 🧪 Test Scenarios
+## Test Scenarios
 
 - Main Screen: Set difficulty → Start game → Reach game over
 - Game Screen: Verify color changes, score tracking, and time limits
@@ -61,7 +61,7 @@ Button Whacker is a casual mobile game where players tap randomly activated butt
 
 ---
  
-## 📄 Documentation
+## Documentation
 
 Project documentation is included in the `docs/` directory:
 
@@ -79,7 +79,7 @@ Place app screenshots in the `screenshots/` directory:
 
 ---
 
-## 💬 Reflection
+## Reflection
 
 Throughout this project, I experienced various challenges including emulator issues, UI responsiveness, and difficulty timing. However, building a complete mobile application from scratch greatly enhanced my understanding of Android development fundamentals.
 
@@ -87,7 +87,7 @@ Future improvements may include a leaderboard system, design theming, and additi
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 - **Taekyung Kim** (Dept. of Mobile Systems Engineering, Dankook University)  
   Student ID: 32211203
