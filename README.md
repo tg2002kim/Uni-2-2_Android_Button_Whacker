@@ -43,7 +43,7 @@ Button Whacker is a casual mobile game where players tap randomly activated butt
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language**: Java
 - **IDE**: Android Studio (ver. 2024.1.2)
@@ -67,15 +67,6 @@ Project documentation is included in the `docs/` directory:
 
 - `mobile_app_plan.pdf` (original: 모바일프로그램_앱개발_기획서.pdf)
 - `mobile_app_report.pdf` (original: 모바일프로그램_앱개발_보고서.pdf)
-
----
-
-## 📸 Screenshots (Optional)
-
-Place app screenshots in the `screenshots/` directory:
-- Main Menu
-- Gameplay Screen
-- Game Over Screen
 
 ---
 
